@@ -1,0 +1,22 @@
+*** Omni Food Project ***
+
+Folder Struture:
+Make a Main folder (Omni Food) - inside it make two more folders- 1) resources and 2)vendors
+These two folders are primary, 'resources' folder have main things we are going to put. The css and js we are going to create.
+'vendors' folder has the files and fonts we include from external sources.
+
+[ F - Folder   Fi - File ]
+
+Structure:
+Inside resources(F) - css(F), data(F), img(F), js(F)
+Inside vendors(F)   - css(F), fonts(F), js(F)
+
+
+Responsive Web Design- Where the web page renders correctly on all the devices.
+
+3 main ingredients of Responsive Web Design:
+1. Fluid Grid- All layout elements are sized in relative units, such as percentage, instead of absolute units like pixels.
+2. Flexible images: are also sized in relative units.
+3. Media Queries: Allow us to specify different CSS style rules for diff browser rules.
+
+
